@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "nome_commerciale": "FROSTY RW",
+      "categoria":"RTR",
+      "url_immagine_copertina": "img/1.png",
+      "testo_ita": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "testo_en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "testo_fr": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "testo_de": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "testo_es": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "accessori": [
+        {
+          "nome_gruppo": "Gruppo 1",
+          "accessori": [
+            {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            },
+            {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            }, {
+              "nome": "Accessorio 1",
+              "disponibilita": true
+            },
+            {
+              "nome": "Accessorio 2",
+              "disponibilita": false
+            }
+          ]
+        }
+      ],
+      "guida_alla_scelta": [
+        {
+          "nome_gruppo": "RW 251",
+          "range_verde": "0-10",
+          "range_giallo": "10-15",
+          "range_rosso": "15-30"
+        },
+        {
+          "nome_gruppo": "RW 261",
+          "range_verde": "0-12",
+          "range_giallo": "12-18",
+          "range_rosso": "18-30"
+        },
+        {
+          "nome_gruppo": "RW 351",
+          "range_verde": "0-15",
+          "range_giallo": "15-20",
+          "range_rosso": "20-30"
+        },
+        {
+          "nome_gruppo": "RW 361",
+          "range_verde": "0-18",
+          "range_giallo": "18-23",
+          "range_rosso": "23-30"
+        },
+        {
+          "nome_gruppo": "RW 451",
+          "range_verde": "0-20",
+          "range_giallo": "20-25",
+          "range_rosso": "25-30"
+        },
+        {
+          "nome_gruppo": "RW 461",
+          "range_verde": "0-22",
+          "range_giallo": "22-28",
+          "range_rosso": "28-30"
+        }
+      ],
+      "dati_tecnici_nominali": {
+        "potenza_frigorifera_0C": "727 W",
+        "potenza_frigorifera_20C": "-",
+        "potenza_frigorifera_standby_0C": "-",
+        "tensione_alimentazione": "12 Vdc / 230 Vac-1-Ph",
+        "assorbimento_elettrico": "22A/11a",
+        "refrigerante": "R134a",
+        "atp": "si",
+        "portata_aria_evaporatore": "800m3h",
+        "peso": {
+          "evaporatore": "10kg",
+          "condensatore": "52 kg"
+        },
+        "dimensioni": {
+          "evaporatore": "626x475x121",
+          "condensatore": "1032x591x239"
+        }
+      }
+    }
+  ]
+}

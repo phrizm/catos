@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "nome_commerciale": "FROSTY RW",
+      "categoria": "RTR",
+      "url_immagine_copertina": "img/1.png",
+      "testo_ita": "...",
+      "testo_en": "...",
+      "testo_fr": "...",
+      "testo_de": "...",
+      "testo_es": "...",
+      "versioni": [
+        {
+          "nome": "RW 251",
+          "dati_tecnici": {
+            "potenza_frigorifera_0C": "727 W",
+            "potenza_frigorifera_20C": "-",
+            "potenza_frigorifera_standby_0C": "-",
+            "tensione_alimentazione": "12 Vdc / 230 Vac-1-Ph",
+            "assorbimento_elettrico": "22A/11a",
+            "refrigerante": "R134a",
+            "atp": "si",
+            "portata_aria_evaporatore": "800m3h",
+            "peso_evaporatore": "10kg",
+            "peso_condensatore": "52 kg",
+            "dimensioni_evaporatore": "626x475x121",
+            "dimensioni_condensatore": "1032x591x239"
+          },
+          "accessori": {
+            "Accessorio 1": true,
+            "Accessorio 2": false,
+            "Accessorio 3": true
+          },
+          "guida_alla_scelta": {
+            "range_verde": "0-10",
+            "range_giallo": "10-15",
+            "range_rosso": "15-30"
+          }
+        },
+        {
+          "nome": "RW 261",
+          "dati_tecnici": {
+            "potenza_frigorifera_0C": "800 W",
+            "potenza_frigorifera_20C": "100 W",
+            "potenza_frigorifera_standby_0C": "50 W",
+            "tensione_alimentazione": "24 Vdc / 230 Vac-1-Ph",
+            "assorbimento_elettrico": "25A/12a",
+            "refrigerante": "R134a",
+            "atp": "si",
+            "portata_aria_evaporatore": "850m3h",
+            "peso_evaporatore": "12kg",
+            "peso_condensatore": "55 kg",
+            "dimensioni_evaporatore": "630x480x125",
+            "dimensioni_condensatore": "1040x600x245"
+          },
+          "accessori": {
+            "Accessorio 1": true,
+            "Accessorio 2": true,
+            "Accessorio 3": false
+          },
+          "guida_alla_scelta": {
+            "range_verde": "0-12",
+            "range_giallo": "12-18",
+            "range_rosso": "18-30"
+          }
+        }
+        // Aggiungi altre versioni qui...
+      ]
+    }
+  ]
+}

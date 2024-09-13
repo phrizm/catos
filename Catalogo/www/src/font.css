@@ -1,0 +1,23 @@
+/* Definizione del font Inter */
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter.ttf') format('truetype');
+
+  }
+  
+  /* Definizione del font Hubot */
+  @font-face {
+    font-family: 'Hubot';
+    src: url('../fonts/Hubot.ttf') format('truetype');
+ 
+  }
+  
+  /* Impostazione del font predefinito per il body */
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  /* Classe per utilizzare il font Hubot */
+  .hubot-font {
+    font-family: 'Hubot', sans-serif;
+  }
